@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+<title>BORDER:DAY ONE</title>
+<center><b><font color=white size=8 face="Cooper black">THE DEBUT ALBUM -> BORDER: DAY ONE</b></font>
+<style>
+table, th, td {
+  border-style:solid;
+  border-color: #FFFFFF;
+}
+</style>
+<body>
+<center><b><font color=white size=3 face="Segoe Print">
+<b><br>"K-Pop's first 'global fan-made group' ENHYPEN, 1st Mini Album "BORDER : DAY ONE".ENHYPEN delivers the story of boys standing at the border with "BORDER : DAY ONE."
+Having survived ‘I-LAND,’ a space of competition, harmony, and growth, the seven boys finally face the first day into the new world to begin their long journey.
+From trainees to artists,from individuals to a team member, the boys feel happiness about their survival, but simultaneously a sense of anxiety about their unknown future 
+as they take their first steps across the border dividing the past and the future. The complex emotions the boys experience in the midst of connecting, discovering, 
+and growing together at the border into the unknown and their strong resolution to overcome this is illustrated through the two visual concepts for this album‘DAWN’
+and‘DUSK’.The debut album is comprised of six tracks overarching various topics that anyone can relate to: “Intro : Walk the Line”, lead single “Given-Taken”, 
+“Let Me In (20 CUBE)”, “10 Months”, “Flicker”, and “Outro : Cross the Line.” — ENHYPEN Official Website</center></b></br>
+
+<p><table style="width:50%">
+  <tr>
+ <nav>
+<td><center><font color=white size=5 face="Cooper black"><a href="https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC?si=9bc7507ab5ee4506">TITLE-TRACK</a></center></td></font>
+<td><center><font color=white size=5 face="Cooper black"><a href="https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH?si=HGEaE6qEQSCLl8ae-4YNjw">TRACKLIST</a></center></td></font>
+  </tr>
+ <font color=white size=3 face="Segoe Print"> <tr>
+    <td><center>Given-Taken</center></td>
+    <td><center><br>Intro: Walk the Line</br></center>
+        <center><br>Given-Taken</br></center>
+        <center><br>Flicker</br></center>
+        <center><br>Let Me In (20 CUBE)</br></center>
+        <center><br>10 Months</br></center>
+        <center><br>Outro:Cross the Line</br></center>
+</nav>
+</tr>
+</table></center></font></p></b>
+<style>
+body {
+  background-image: url('7.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<b><font color=white size=3 face="Segoe Print"> <a href="border_carnival.html">next page</a></b>
+</body>
+</html>
+

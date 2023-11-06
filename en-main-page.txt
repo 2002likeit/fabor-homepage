@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head><title>main page</title>
+<center><b><font color=black size=3 face="Cooper Black">
+<nav><table spacing="5" cellpadding="5">
+<tr> 
+<td><a href="https://www.enhypenguide.com">ENHYPEN GUIDE</a></td>
+<td><a href="https://x.com/ENHYPEN_members?s=20">TWITTER</a></td>
+<td><a href="https://www.youtube.com/@ENHYPENOFFICIAL">YOUTUBE</a></td>
+<td><a href="https://www.instagram.com/enhypen/?hl=en">INSTAGRAM</a></td>
+<td><a href="https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9">SPOTIFY</a></td>
+</tr> 
+</nav>
+</body>
+<body>
+<center><nav><table spacing="5" cellpadding="5">
+<tr> 
+<td><a href="border_dayone.html">BORDER:DAY ONE</a></td>
+<td><a href="border_carnival.html">BORDER:CARNIVAL</a></td>
+<td><a href="dimension_dilemma.html">DIMENSION:DILEMMA</a></td>
+<td><a href="dimension_answer.html">DIMENSION:ANSWER</a></td>
+<td><a href="manifesto_dayone.html">MANIFESTO:DAY 1</a></td>
+</tr> 
+</nav>
+</body>
+</head>
+</font>
+<center><b><font color=white size=10 face="Cooper Black">DISCOVER ENHYPEN'S DISCOGRAPHY</b></font></p>
+<center><img src="bdo.png" width="100" alt="Border:Day One"/><img src="bc.jpg" width="100" alt="Border:Carnival"/><img src="dd.jpg" width="100" alt="Dimension:Dilemma"c>
+<img src="dians.jpg" width="100" alt="Dimension:Answer"/><img src="manfst.jpg" width="100" alt="Manifesto:Day1"/><img src="db.jpg" width="100" alt="Dark:Blood"/>
+<style>
+body {
+  background-image: url('4.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</html>

@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<title>DIMENSION:DILEMMA</title>
+<p><center><b><font color=white size=8 face="Cooper black">THE FIRST FULL ALBUM -> DIMENSION:DILEMMA</b></font></p>
+<style>
+body {
+  background-image: url('4.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</body>
+<body>
+<b><p><center><font color=white size=3 face="Segoe Print"> "Following the closure of their ‘BORDER’ series which colorfully illustrated the complex, 
+yet sincere emotions the members experienced before and after crossing the border of their debut, the record-breaking K-pop prodigies continue to tell their story, 
+now faced with a new dilemma—the new world past the border turns out to be even more multidimensional and chaotic than the boys expected. After entering this 
+multidimensional world where their values begin to collide, they recognize their desires for the first time and begin to question their identity. 
+Hands tied in their new dilemma, the boys decide to do what they can for now—to run. Answers are unknown and the road ahead is unclear,
+but who knows? They might find the answers on their journey. They could even connect with someone just like them. They’ll dash forward until they do.The album's three visual concepts—SCYLLA, CHARYBDIS, ODYSSEUS—each 
+respectively convey the members’ upheaval of youth,the ensuing chaos and inner turmoil, and the various new desires they are confronted with in this new world".</center></b></p>
+
+<p><font color=black size=6 face="Cooper Black">“ODYSSEUS CONCEPT PHOTOS”</font></p><img src="1.jpg" width="440"><img src="1.1.jpg" width="430">
+<p><font color=black size=6 face="Cooper Black">“SCYLLA CONCEPT PHOTOS”</font></p><img src="scylla.jpg" width="445"><img src="scylla1.jpg" width="400">
+<p><font color=black size=6 face="Cooper Black">“CHARYBDIS CONCEPT PHOTOS”</font></p><img src="charybdis.jpg" width="400"><img src="charybdis1.jpg" width="400">
+</center></b></br></p>
+<body>
+<b><p><center><font color=white size=3 face="Segoe Print"> "ENHYPEN continue to tell their own authentic story, as well as the relatable story
+ of this generation through a total of eight tracks: “Intro : Whiteout", lead single “Tamed-Dashed”, “Upper Side Dreamin’”, “Just A Little Bit”, 
+“Go Big or Go Home”, “Blockbuster feat. YEONJUN of TOMORROW X TOGETHER”, “Attention, please!”, “Interlude : Question”.— ENHYPEN Official Website</center></b></p>
+<style>
+table, th, td {
+  border-style:solid;
+  border-color:	#FFFFFF;
+}
+</style>
+<b><p><center><table style="width:50%"><font color=white size=3 face="Segoe Print">
+  <tr>
+ <nav>
+<td><center><font color=white size=5 face="Cooper black"><a href="https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy?si=fe947d8394ad4d99">TITLE-TRACK</a></center></td></font>
+<td><center><font color=white size=5 face="Cooper black"><a href="https:https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI?si=j2Jg_rzQToi4U-bvay2sqg">TRACKLIST</a></center></td></font>
+  </tr>
+  <tr>
+    <td><center>Tamed-Dashed</center></td>
+    <td><center><br>Intro: Whiteout</br></center>
+        <center><br>Tamed-Dashed</br></center>
+        <center><br>Upper Side Dreamin</br></center>
+        <center><br>Just A Little Bit</br></center>
+        <center><br>Go big or Go Home</br></center>
+        <center><br>Blockbuster feat. YEONJUN of TXT</br></center>
+        <center><br>Attention, Please!</br></center>
+        <center><br>Interlude: Question</br></center></font>
+</nav>
+</tr>
+</table></center></font></p></b>
+<b><font color=white size=3 face="Segoe Print"> <a href="dimension_answer.html">next page</a></b>
+</body>
+</html>

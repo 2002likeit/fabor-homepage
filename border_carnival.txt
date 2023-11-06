@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<title>BORDER:CARNIVAL</title>
+<p><center><b><font color=white size=8 face="Cooper black">THE SECOND ALBUM -> BORDER:CARNIVAL</b></font></p>
+<style>
+body {
+  background-image: url('blurup.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</body>
+<body>
+<b><p><center><font color=white size=3 face="Segoe Print">"Drunk-Dazed” amidst a magnificent carnival,ENHYPEN expresses their sincerest emotions facing the new world past the border.
+After debut, the septet is invited into a whole new world filled with glitz and glamor, reminiscent of a magnificent carnival.They experience everything for the first time 
+and existing rules don’t apply. Awe and perplexity coexist in this unfamiliar environment where the world seems to be turned upside down and the boundaries broken.
+However,confusion vanishes in a flash. Entranced by the festive atmosphere, the boys are led to the center of the carnival guided by the gazes and cheers of the crowd. 
+As a continuation from the breakout boyband’s debut album BORDER : DAY ONE, BORDER : CARNIVAL captures the act’s evolving emotions, illustrated 
+by three visual concepts:
+<p><font color=white size=6 face="Cooper Black">“UP CONCEPT PHOTOS”</font></p><img src="merge.jpg" width="400"><img src="merge1.jpg" width="400">
+<p><font color=white size=6 face="Cooper Black">“HYPE CONCEPT PHOTOS”</font></p><img src="hype.jpg" width="400"><img src="hypee.jpg" width="450">
+<p><font color=white size=6 face="Cooper Black">“DOWN CONCEPT PHOTOS”</font></p><img src="down1.jpg" width="400"><img src="down2.jpg" width="400"></center></b></br></p>
+<body>
+<b><p><center><font color=white size=3 face="Segoe Print">ENHYPEN unravels their honest emotions and connects with their generation through a total of 
+six tracks: “Intro : The Invitation”, lead single “Drunk-Dazed”,“FEVER”, “Not For Sale”, “Mixed Up”, and “Outro : The Wormhole.” — ENHYPEN Official Website.</center></b></br></p>
+<style>
+table, th, td {
+  border-style:solid;
+  border-color:	#FFFFFF;
+}
+</style>
+<b><font color=white size=3 face="Segoe Print">
+<p><table style="width:50%">
+  <tr>
+ <nav>
+<td><center><font color=white size=5 face="Cooper black"><a href="https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4?si=7f60df8bd897415c">TITLE-TRACK</a></center></td></font>
+<td><center><font color=white size=5 face="Cooper black"><a href="https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv?si=nJ0mbkU1QtyE4NE2nHm-ag">TRACKLIST</a></center></td></font>
+  </tr>
+  <tr>
+    <td><center>Drunk-Dazed</center></td>
+    <td><center><br>Intro: The Invitation</br></center>
+        <center><br>Drunk-Dazed</br></center>
+        <center><br>FEVER</br></center>
+        <center><br>Not For Sale</br></center>
+        <center><br>Mixed Up</br></center>
+        <center><br>Outro:The Wormhole</br></center></font>
+</nav>
+</tr>
+</table></center></font></p></b>
+<b><font color=white size=3 face="Segoe Print"> <a href="dimension_dilemma.html">next page</a></b>
+</body>
+</html>

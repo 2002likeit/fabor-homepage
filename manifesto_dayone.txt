@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<title>MANIFESTO:DAY 1</title>
+<p><center><b><font color=white size=6 face="Cooper black">THE THIRD MINI ALBUM -> MANIFESTO:DAY 1</b></font></p></center>
+<style>
+body {
+  background-image: url('md.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<body>
+<b><p><center><font color=white size=3 face="Segoe Print">"Through their previous ‘BORDER’ and ‘DIMENSION’ album series, the rising authentic storytellers came to realize their role
+and calling while connecting to a new world where they faced an array of complex emotions. Now based on this awakening, MANIFESTO : DAY 1 paints a portrait of the boys taking control 
+of their own lives and drawing a new future for themselves through six genre-spanning tracks: lead single “Future Perfect (Pass the MIC)”, “WALK THE LINE”, 
+“ParadoXXX Invasion”, “TFW (That Feeling When)”, “SHOUT OUT”, and “Foreshadow”. </center></b></p>
+<b><p><center><font color=white size=3 face="Segoe Print"> 
+The new six-track album redefines ENHYPEN’s idea of “connection,” and the three different visual concepts (‘D’, ‘J’ and ‘M’) each illustrate an individual story designed to 
+piece together as one. With ever-evolving music, performances, and visuals as their source of power, your new K-pop destination is now set out to become 
+the new powerhouse of K-pop with MANIFESTO : DAY 1”. — ENHYPEN Official Website </center></b></p>
+<p><center><font color=white size=6 face="Cooper Black">“MD1 CONCEPT PHOTOS”</font></p><img src="mda.jpg" width="380"><img src="mdb.jpg" width="380"></center></p>
+<style>
+table, th, td {
+  border-style:solid;
+  border-color:	#FFFFFF;
+}
+</style>
+<b><p><center><table style="width:50%"><font color=white size=3 face="Segoe Print">
+  <tr>
+ <nav>
+<td><center><font color=white size=5 face="Cooper black"><a href="https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98?si=120012a4511440ef">TITLE-TRACK</a></center></td></font>
+<td><center><font color=white size=5 face="Cooper black"><a href="https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8?si=wmoeaEvLRkus_H9ZVFTmsA">TRACKLIST</a></center></td></font>
+  </tr>
+  <tr>
+    <td><center>Future Perfect (Pass the Mic)</center></td>
+    <td><center><br>Walk The Line</br></center>
+        <center><br>ParadoXXX Invasion</br></center>
+        <center><br>TFW (That Feeling When)</br></center>
+        <center><br>SHOUT OUT</br></center>
+        <center><br>Foreshadow</br></center>
+</nav>
+</tr>
+</table></center></font></p></b>
+</body>
+</html>
